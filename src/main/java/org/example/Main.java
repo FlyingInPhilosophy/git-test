@@ -10,5 +10,6 @@ public class Main {
         System.out.println("hello git!");
         System.out.println("hello git!");
         System.out.println("hello merge in master");
+        System.out.println("hello merge in b1");
     }
 }
