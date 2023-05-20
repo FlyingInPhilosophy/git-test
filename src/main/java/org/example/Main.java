@@ -13,5 +13,6 @@ public class Main {
         System.out.println("hello merge in b1");
         System.out.println("push into github");
         System.out.println("push test");
+        sysetem.out.println("pull test");
     }
 }
