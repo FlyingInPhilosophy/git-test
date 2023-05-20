@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Hello git!");
         System.out.println("hello git!");
         System.out.println("hello git!");
+        System.out.println("hello merge in b1");
     }
 }
